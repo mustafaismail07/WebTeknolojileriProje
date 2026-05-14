@@ -1,0 +1,18 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.film-card img {
+    height: 450px;
+    object-fit: cover;
+}
+
+.onerilen-film img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.sidebar-card img {
+    height: 220px;
+    object-fit: cover;
+}
